@@ -1,9 +1,11 @@
 """
 CannabinoidTerpeneDectionPotency1207022.py
 Copyright (c) 2022 CSWCFA
+Copyright (c) 2022 Cannlytics
 
 Authors:
     Candace O'Sullivan-Sutherland <https://github.com/candy-o>
+    Keegan Skeate <keegan@cannlytics.com>
 
 Created: 12/7/2022
 Updated: 12/8/2022
